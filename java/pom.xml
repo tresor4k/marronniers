@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>fr.lescreavores</groupId>
+  <artifactId>marronniers</artifactId>
+  <version>0.1.0</version>
+  <packaging>jar</packaging>
+  <name>marronniers</name>
+  <description>French editorial calendar (marronniers) from September 2026 to December 2027: public holidays, celebrations, retail dates, world days, school holidays and sales, with sectors, source and a post idea for each date. Java 11+, no dependency.</description>
+  <url>https://lescreavores.fr/outils/generateur-calendrier-editorial/</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Les Créavores</name>
+      <url>https://lescreavores.fr/</url>
+    </developer>
+  </developers>
+  <scm>
+    <url>https://github.com/tresor4k/marronniers</url>
+    <connection>scm:git:https://github.com/tresor4k/marronniers.git</connection>
+    <developerConnection>scm:git:https://github.com/tresor4k/marronniers.git</developerConnection>
+  </scm>
+  <properties>
+    <maven.compiler.release>11</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+</project>

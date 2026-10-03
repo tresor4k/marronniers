@@ -1,0 +1,146 @@
+S	commerce	Commerce et e-commerce
+S	restauration	Restauration et métiers de bouche
+S	beaute	Beauté et bien-être
+S	artisanat	Artisanat et bâtiment
+S	b2b	B2B et services
+S	sante	Santé
+S	immobilier	Immobilier
+E	2026-09-14	2026-09-14	Journée mondiale de la dermatite atopique	journee	sante,beaute	GlobalSkin (14 septembre)	Conseils peau sensible, routine sans parfum, quand consulter.
+E	2026-09-16	2026-09-22	Semaine européenne de la mobilité	journee	tous	Commission européenne (16 au 22 septembre chaque année)	Comment vos clients viennent à vous : accès, vélo, transports, livraison douce.
+E	2026-09-19	2026-09-20	Journées européennes du patrimoine	journee	artisanat,restauration,immobilier	Ministère de la Culture (3e week-end de septembre)	Savoir-faire, bâti ancien, produits du terroir : montrez l'histoire derrière votre métier.
+E	2026-09-21	2026-09-21	Journée mondiale de la maladie d'Alzheimer	journee	sante	Alzheimer's Disease International (21 septembre)	Signes précoces, accompagnement des aidants, ressources locales.
+E	2026-09-22	2026-09-22	Journée mondiale sans voiture	journee	tous	Semaine européenne de la mobilité (22 septembre)	Votre commerce ou atelier accessible autrement : vélo, marche, livraison.
+E	2026-09-25	2026-09-25	Journée mondiale des pharmaciens	journee	sante	Fédération internationale pharmaceutique (25 septembre)	Rôle de conseil de l'officine, services de prévention proposés.
+E	2026-09-27	2026-09-27	Journée mondiale du tourisme	journee	restauration,commerce	Organisation mondiale du tourisme (27 septembre)	Accueil des visiteurs, produits locaux, adresses à recommander.
+E	2026-09-29	2026-09-29	Journée mondiale du cœur	journee	sante	Fédération mondiale du cœur (29 septembre)	Prévention cardiovasculaire, dépistage, activité physique.
+E	2026-09-29	2026-09-29	Journée internationale de sensibilisation aux pertes et gaspillages alimentaires	journee	restauration,commerce	ONU / FAO (29 septembre)	Anti-gaspi : paniers, portions, invendus, coulisses de la cuisine.
+E	2026-10-01	2026-10-01	Journée internationale du café	journee	restauration,commerce	Organisation internationale du café (1er octobre)	Origine de votre café, méthode d'extraction, offre du jour.
+E	2026-10-01	2026-10-01	Journée internationale des personnes âgées	journee	sante,immobilier	ONU (1er octobre)	Maintien à domicile, adaptation du logement, services aux seniors.
+E	2026-10-01	2026-10-31	Octobre rose	journee	sante,beaute,commerce	Campagne annuelle de sensibilisation au cancer du sein (mois d'octobre)	Dépistage, soutien à une association locale, produit ou geste solidaire.
+E	2026-10-04	2026-10-04	Fête des grands-pères	fete	commerce,restauration	Usage commercial (1er dimanche d'octobre)	Idées cadeaux, repas de famille, offre intergénérationnelle.
+E	2026-10-04	2026-10-04	Journée mondiale des animaux	journee	commerce	Usage international (4 octobre)	Produits et services pour animaux, accueil des animaux en boutique.
+E	2026-10-10	2026-10-10	Journée mondiale de la santé mentale	journee	sante,b2b	OMS (10 octobre)	Qualité de vie au travail, prévention de l'épuisement, ressources.
+E	2026-10-15	2026-10-15	Journée mondiale du lavage des mains	journee	sante,restauration	Global Handwashing Partnership (15 octobre)	Hygiène en cuisine ou au cabinet, gestes simples, coulisses.
+E	2026-10-16	2026-10-16	Journée mondiale de l'alimentation	journee	restauration,commerce	ONU / FAO (16 octobre)	Produits de saison, circuits courts, fournisseurs locaux.
+E	2026-10-16	2026-10-16	Journée mondiale du pain	journee	artisanat,restauration	Union internationale de la boulangerie (16 octobre)	Fournil, farines, recette, portrait du boulanger.
+E	2026-10-17	2026-11-02	Vacances de la Toussaint (toutes zones)	vacances	commerce,restauration,beaute	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027)	Horaires élargis, activités enfants, offres familles.
+E	2026-10-18	2026-10-18	Journée mondiale de la ménopause	journee	sante,beaute	Société internationale de la ménopause (18 octobre)	Information, accompagnement, soins adaptés.
+E	2026-10-20	2026-10-20	Journée mondiale de l'ostéoporose	journee	sante	Fondation internationale de l'ostéoporose (20 octobre)	Prévention des chutes, calcium et vitamine D, dépistage.
+E	2026-10-25	2026-10-25	Passage à l'heure d'hiver	saison	tous	Directive 2000/84/CE (dernier dimanche d'octobre)	Rappel pratique, horaires d'ouverture, éclairage de la vitrine.
+E	2026-10-31	2026-10-31	Halloween	fete	commerce,restauration,beaute	Usage (31 octobre)	Vitrine, menu ou maquillage à thème, animation pour les enfants.
+E	2026-11-01	2026-11-01	Toussaint (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, fleurs et chrysanthèmes, message de respect.
+E	2026-11-01	2026-11-30	Mois sans tabac et Movember	journee	sante,beaute	Santé publique France (Mois sans tabac) ; Movember Foundation (novembre)	Accompagnement à l'arrêt, santé masculine, défi d'équipe.
+E	2026-11-11	2026-11-11	Armistice de 1918 (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, devoir de mémoire, pas de promotion ce jour-là.
+E	2026-11-11	2026-11-11	Singles Day (11.11)	commercial	commerce	Usage commercial venu de Chine (11 novembre)	Offre flash e-commerce en amont du Black Friday.
+E	2026-11-13	2026-11-13	Journée mondiale de la gentillesse	journee	tous	World Kindness Movement (13 novembre)	Merci aux clients, geste offert, coulisses de l'équipe.
+E	2026-11-14	2026-11-14	Journée mondiale du diabète	journee	sante,restauration	ONU / Fédération internationale du diabète (14 novembre)	Dépistage, alimentation adaptée, carte sans sucres ajoutés.
+E	2026-11-19	2026-11-19	Beaujolais nouveau	commercial	restauration,commerce	Interprofession du Beaujolais (3e jeudi de novembre)	Soirée dégustation, accords, sélection de vignerons.
+E	2026-11-19	2026-11-19	Journée de l'entrepreneuriat féminin	journee	b2b	Women's Entrepreneurship Day Organization (19 novembre)	Portrait d'une cliente ou partenaire, parcours de création.
+E	2026-11-20	2026-11-20	Journée internationale des droits de l'enfant	journee	commerce,sante	ONU (20 novembre)	Produits enfants, engagement associatif, pédiatrie.
+E	2026-11-27	2026-11-27	Black Friday	commercial	commerce,beaute,b2b	Usage commercial (lendemain du 4e jeudi de novembre)	Offre claire et limitée, ou prise de position anti Black Friday assumée.
+E	2026-11-30	2026-11-30	Cyber Monday	commercial	commerce	Usage commercial (lundi suivant le Black Friday)	Prolongation en ligne, dernière chance avant Noël.
+E	2026-12-01	2026-12-01	Giving Tuesday	journee	b2b,commerce	Mouvement Giving Tuesday (mardi suivant le Black Friday)	Don ou mécénat local, pourcentage reversé, appel au bénévolat.
+E	2026-12-01	2026-12-01	Journée mondiale de lutte contre le sida	journee	sante	OMS / ONUSIDA (1er décembre)	Dépistage, prévention, ressources locales.
+E	2026-12-03	2026-12-03	Journée internationale des personnes handicapées	journee	tous	ONU (3 décembre)	Accessibilité de vos locaux et de votre site, adaptation des services.
+E	2026-12-05	2026-12-05	Journée internationale des volontaires	journee	b2b	ONU (5 décembre)	Engagement de l'équipe, mécénat de compétences.
+E	2026-12-06	2026-12-06	Saint-Nicolas	fete	commerce,restauration,artisanat	Tradition du Nord et de l'Est de la France, Belgique, Luxembourg (6 décembre)	Brioches, chocolats, défilé local, vitrine de saison.
+E	2026-12-19	2027-01-04	Vacances de Noël (toutes zones)	vacances	commerce,restauration,beaute	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027)	Horaires de fêtes, cartes cadeaux, réservations de dernière minute.
+E	2026-12-24	2026-12-25	Réveillon et Noël (25 décembre férié)	ferie	tous	Code du travail, art. L3133-1	Vœux, remerciements, dernières commandes, fermeture annoncée.
+E	2026-12-31	2026-12-31	Saint-Sylvestre	fete	restauration,commerce,beaute	Usage (31 décembre)	Menu du réveillon, mise en beauté, bilan de l'année.
+E	2027-01-01	2027-01-01	Jour de l'an (jour férié)	ferie	tous	Code du travail, art. L3133-1	Vœux, nouveautés de l'année, objectifs partagés.
+E	2027-01-06	2027-01-06	Épiphanie (galette des rois)	fete	restauration,artisanat,commerce	Tradition (6 janvier)	Galette maison, fève collector, concours en boutique.
+E	2027-01-06	2027-02-02	Soldes d'hiver 2027	commercial	commerce	Ministère de l'Économie, calendrier national des soldes (du mercredi 6 janvier au mardi 2 février 2027)	Sélection, démarques successives, conseil plutôt que rabais seul.
+E	2027-01-28	2027-01-28	Journée européenne de la protection des données	journee	b2b	Conseil de l'Europe (28 janvier)	RGPD, ce que vous faites des données clients, bonnes pratiques.
+E	2027-02-02	2027-02-02	Chandeleur	fete	restauration,commerce	Tradition (2 février)	Crêpes, farines, animation en magasin ou en salle.
+E	2027-02-04	2027-02-04	Journée mondiale contre le cancer	journee	sante	Union internationale contre le cancer (4 février)	Prévention, dépistage, accompagnement.
+E	2027-02-06	2027-02-06	Nouvel An chinois (année de la Chèvre)	fete	restauration,commerce	Calendrier lunaire chinois (6 février 2027)	Menu ou sélection spéciale, collaboration avec un commerce asiatique.
+E	2027-02-06	2027-03-08	Vacances d'hiver (selon les zones A, B, C)	vacances	commerce,restauration,beaute	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027) : du 6 février au 8 mars 2027 selon la zone	Offres familles, sports d'hiver, activités enfants.
+E	2027-02-09	2027-02-09	Mardi gras	fete	restauration,artisanat,commerce	Calendrier liturgique (47 jours avant Pâques 2027)	Beignets, carnaval, déguisements.
+E	2027-02-14	2027-02-14	Saint-Valentin	fete	commerce,restauration,beaute,artisanat	Usage (14 février)	Cadeaux, menu en duo, soin à deux, création sur mesure.
+E	2027-02-28	2027-02-28	Journée mondiale des maladies rares	journee	sante	EURORDIS (dernier jour de février)	Information, orientation, associations de patients.
+E	2027-03-03	2027-03-03	Journée mondiale de l'audition	journee	sante	OMS (3 mars)	Dépistage auditif, protection du bruit au travail.
+E	2027-03-04	2027-03-04	Journée mondiale de l'obésité	journee	sante	World Obesity Federation (4 mars)	Prévention sans culpabilisation, accompagnement pluridisciplinaire.
+E	2027-03-07	2027-03-07	Fête des grands-mères	fete	commerce,restauration,beaute	Usage commercial (1er dimanche de mars)	Cadeaux, fleurs, soin offert, repas de famille.
+E	2027-03-08	2027-03-08	Journée internationale des droits des femmes	journee	tous	ONU (8 mars)	Portraits, égalité dans votre métier, engagements concrets (pas de promotion).
+E	2027-03-15	2027-03-15	Journée mondiale des droits des consommateurs	journee	commerce	Consumers International (15 mars)	Transparence des prix, garanties, service après-vente.
+E	2027-03-18	2027-03-18	Journée mondiale du recyclage	journee	artisanat,commerce,b2b	Global Recycling Foundation (18 mars)	Matériaux récupérés, tri des déchets de chantier, emballages.
+E	2027-03-19	2027-03-19	Journée mondiale du sommeil	journee	sante,beaute	World Sleep Society (vendredi précédant l'équinoxe de mars)	Hygiène du sommeil, literie, rituels du soir.
+E	2027-03-20	2027-03-20	Printemps et Journée internationale du bonheur	saison	tous	Équinoxe de mars 2027 ; ONU (20 mars)	Nouveautés de saison, terrasse, jardin, remise en forme.
+E	2027-03-20	2027-03-20	Journée mondiale de la santé bucco-dentaire	journee	sante	Fédération dentaire internationale (20 mars)	Prévention, brossage, contrôle annuel.
+E	2027-03-21	2027-03-21	Journée internationale des forêts	journee	artisanat	ONU (21 mars)	Bois local, essences, traçabilité.
+E	2027-03-22	2027-03-22	Journée mondiale de l'eau	journee	artisanat,restauration,tous	ONU (22 mars)	Économies d'eau, plomberie, récupération de pluie.
+E	2027-03-25	2027-03-25	Vacances de Pâques en Corse (jusqu'au 12 avril)	vacances	commerce,restauration	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027, Corse : du jeudi 25 mars au lundi 12 avril 2027)	Utile aux entreprises corses uniquement.
+E	2027-03-28	2027-03-29	Pâques et lundi de Pâques (29 mars férié)	ferie	commerce,restauration,artisanat	Calendrier liturgique ; Code du travail, art. L3133-1	Chocolats, brunch, chasse aux œufs, chocolatiers et pâtissiers.
+E	2027-03-28	2027-03-28	Passage à l'heure d'été	saison	tous	Directive 2000/84/CE (dernier dimanche de mars)	Rappel pratique, terrasses, horaires du soir.
+E	2027-03-31	2027-03-31	Journée mondiale de la sauvegarde des données	journee	b2b	World Backup Day (31 mars)	Sauvegardes, plan de reprise, rappel aux clients.
+E	2027-04-01	2027-04-01	Poisson d'avril	fete	tous	Tradition (1er avril)	Blague de marque légère, faux produit, clin d'œil.
+E	2027-04-02	2027-04-02	Journée mondiale de sensibilisation à l'autisme	journee	sante	ONU (2 avril)	Accueil adapté, ressources, partenariats associatifs.
+E	2027-04-03	2027-05-03	Vacances de printemps (selon les zones A, B, C)	vacances	commerce,restauration,beaute,immobilier	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027) : du 3 avril au 3 mai 2027 selon la zone	Offres familles, visites de biens, ateliers enfants.
+E	2027-04-07	2027-04-07	Journée mondiale de la santé	journee	sante	OMS (7 avril)	Prévention, bilan annuel, thème OMS de l'année.
+E	2027-04-22	2027-04-22	Journée internationale de la Terre	journee	tous	ONU (22 avril)	Vos engagements concrets et mesurables, sans greenwashing.
+E	2027-04-23	2027-04-23	Journée mondiale du livre	journee	commerce	UNESCO (23 avril)	Sélection de lectures liées à votre métier, partenariat avec une librairie.
+E	2027-04-26	2027-04-26	Journée mondiale de la propriété intellectuelle	journee	b2b	OMPI (26 avril)	Marque, dépôt, protection des créations.
+E	2027-04-28	2027-04-28	Journée mondiale de la sécurité et de la santé au travail	journee	artisanat,b2b	OIT (28 avril)	Équipements, prévention sur chantier, formation.
+E	2027-05-01	2027-05-01	Fête du Travail (jour férié) et muguet	ferie	tous	Code du travail, art. L3133-1 et L3133-4	Brin de muguet offert, fermeture annoncée.
+E	2027-05-06	2027-05-06	Ascension (jour férié, pont du 7 mai)	ferie	restauration,commerce,beaute	Calendrier liturgique (39 jours après Pâques) ; Code du travail, art. L3133-1	Week-end prolongé, réservations, horaires.
+E	2027-05-08	2027-05-08	Victoire de 1945 (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, pas de promotion ce jour-là.
+E	2027-05-08	2027-05-08	Journée mondiale du commerce équitable	journee	commerce,restauration	World Fair Trade Organization (2e samedi de mai)	Produits labellisés, fournisseurs, prix justes.
+E	2027-05-09	2027-05-09	Journée de l'Europe	journee	b2b	Union européenne (9 mai)	Clients et fournisseurs européens, marchés transfrontaliers.
+E	2027-05-12	2027-05-12	Journée internationale des infirmières	journee	sante	Conseil international des infirmières (12 mai)	Merci aux soignants, portrait d'équipe.
+E	2027-05-15	2027-05-15	Journée internationale des familles	journee	commerce,immobilier	ONU (15 mai)	Offres familles, logement familial, activités.
+E	2027-05-16	2027-05-17	Pentecôte et lundi de Pentecôte (17 mai férié)	ferie	tous	Calendrier liturgique (49 jours après Pâques) ; Code du travail, art. L3133-1	Week-end prolongé, journée de solidarité, horaires.
+E	2027-05-20	2027-05-20	Journée mondiale des abeilles	journee	restauration,commerce,artisanat	ONU (20 mai)	Miel local, apiculteur partenaire, plantes mellifères.
+E	2027-05-30	2027-05-30	Fête des mères	fete	commerce,restauration,beaute,artisanat	Loi du 24 mai 1950 (dernier dimanche de mai, sauf Pentecôte)	Cadeaux, brunch, soin offert, création personnalisée. Commander tôt.
+E	2027-05-31	2027-05-31	Journée mondiale sans tabac	journee	sante,beaute	OMS (31 mai)	Arrêt du tabac, peau et dents, accompagnement.
+E	2027-06-01	2027-06-01	Journée mondiale des parents	journee	commerce	ONU (1er juin)	Produits enfants et parents, témoignages.
+E	2027-06-03	2027-06-03	Journée mondiale du vélo	journee	commerce,tous	ONU (3 juin)	Stationnement vélo, livraison à vélo, offre cycliste.
+E	2027-06-05	2027-06-05	Journée mondiale de l'environnement	journee	tous	ONU / PNUE (5 juin)	Un chiffre réel sur vos déchets ou votre énergie, une action concrète.
+E	2027-06-08	2027-06-08	Journée mondiale des océans	journee	restauration	ONU (8 juin)	Pêche durable, espèces de saison, fournisseurs.
+E	2027-06-14	2027-06-14	Journée mondiale du don du sang	journee	sante,b2b	OMS (14 juin)	Collecte locale, mobilisation d'équipe.
+E	2027-06-20	2027-06-20	Fête des pères	fete	commerce,restauration,beaute,artisanat	Usage (3e dimanche de juin)	Cadeaux, barbier, atelier, repas.
+E	2027-06-21	2027-06-21	Fête de la musique, été et Journée internationale du yoga	fete	restauration,commerce,sante,beaute	Ministère de la Culture (21 juin) ; solstice de juin 2027 ; ONU (yoga, 21 juin)	Terrasse, concert, soirée prolongée, séance en plein air.
+E	2027-06-23	2027-07-20	Soldes d'été 2027	commercial	commerce	Code de commerce, art. L310-3 (dernier mercredi de juin, avancé au 23 juin 2027 ; 4 semaines)	Sélection, conseil, fin de collection.
+E	2027-06-27	2027-06-27	Journée des micro, petites et moyennes entreprises	journee	b2b,artisanat	ONU (27 juin)	Votre histoire d'entreprise, vos clients TPE, chiffres réels.
+E	2027-07-03	2027-09-01	Vacances d'été (dès le samedi 3 juillet 2027)	vacances	commerce,restauration,beaute,immobilier	Arrêté du 22 octobre 2025 (calendrier scolaire 2026-2027)	Horaires d'été, fermeture annuelle, déménagements, saison touristique.
+E	2027-07-14	2027-07-14	Fête nationale (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, bal, feu d'artifice local.
+E	2027-08-15	2027-08-15	Assomption (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, pic touristique.
+E	2027-09-01	2027-09-02	Rentrée scolaire 2027 (prérentrée le 1er, élèves le jeudi 2 septembre)	vacances	commerce,tous	Arrêté du 21 juillet 2026 (calendrier scolaire 2027-2028)	Fournitures, reprise d'activité, nouveaux horaires, offres de rentrée.
+E	2027-09-14	2027-09-14	Journée mondiale de la dermatite atopique	journee	sante,beaute	GlobalSkin (14 septembre)	Conseils peau sensible, routine sans parfum.
+E	2027-09-16	2027-09-22	Semaine européenne de la mobilité	journee	tous	Commission européenne (16 au 22 septembre chaque année)	Accès à vos locaux, vélo, transports.
+E	2027-09-18	2027-09-19	Journées européennes du patrimoine	journee	artisanat,restauration,immobilier	Ministère de la Culture (3e week-end de septembre)	Savoir-faire, bâti ancien, portes ouvertes.
+E	2027-09-21	2027-09-21	Journée mondiale de la maladie d'Alzheimer	journee	sante	Alzheimer's Disease International (21 septembre)	Signes précoces, aidants, ressources locales.
+E	2027-09-22	2027-09-22	Journée mondiale sans voiture	journee	tous	Semaine européenne de la mobilité (22 septembre)	Venir autrement, livraison douce.
+E	2027-09-25	2027-09-25	Journée mondiale des pharmaciens	journee	sante	Fédération internationale pharmaceutique (25 septembre)	Conseil officinal, prévention.
+E	2027-09-27	2027-09-27	Journée mondiale du tourisme	journee	restauration,commerce	Organisation mondiale du tourisme (27 septembre)	Accueil des visiteurs, produits locaux.
+E	2027-09-29	2027-09-29	Journée mondiale du cœur	journee	sante	Fédération mondiale du cœur (29 septembre)	Prévention cardiovasculaire.
+E	2027-09-29	2027-09-29	Journée internationale de sensibilisation aux pertes et gaspillages alimentaires	journee	restauration,commerce	ONU / FAO (29 septembre)	Anti-gaspi, invendus, portions.
+E	2027-10-01	2027-10-01	Journée internationale du café	journee	restauration,commerce	Organisation internationale du café (1er octobre)	Origine, extraction, offre du jour.
+E	2027-10-01	2027-10-01	Journée internationale des personnes âgées	journee	sante,immobilier	ONU (1er octobre)	Maintien à domicile, adaptation du logement.
+E	2027-10-01	2027-10-31	Octobre rose	journee	sante,beaute,commerce	Campagne annuelle de sensibilisation au cancer du sein (mois d'octobre)	Dépistage, soutien associatif, geste solidaire.
+E	2027-10-03	2027-10-03	Fête des grands-pères	fete	commerce,restauration	Usage commercial (1er dimanche d'octobre)	Idées cadeaux, repas de famille.
+E	2027-10-04	2027-10-04	Journée mondiale des animaux	journee	commerce	Usage international (4 octobre)	Produits et services pour animaux.
+E	2027-10-10	2027-10-10	Journée mondiale de la santé mentale	journee	sante,b2b	OMS (10 octobre)	Qualité de vie au travail, prévention.
+E	2027-10-15	2027-10-15	Journée mondiale du lavage des mains	journee	sante,restauration	Global Handwashing Partnership (15 octobre)	Hygiène, coulisses.
+E	2027-10-16	2027-10-16	Journée mondiale de l'alimentation et Journée mondiale du pain	journee	restauration,commerce,artisanat	ONU / FAO ; Union internationale de la boulangerie (16 octobre)	Produits de saison, fournil, circuits courts.
+E	2027-10-18	2027-10-18	Journée mondiale de la ménopause	journee	sante,beaute	Société internationale de la ménopause (18 octobre)	Information, soins adaptés.
+E	2027-10-20	2027-10-20	Journée mondiale de l'ostéoporose	journee	sante	Fondation internationale de l'ostéoporose (20 octobre)	Prévention des chutes, dépistage.
+E	2027-10-23	2027-11-08	Vacances de la Toussaint (toutes zones)	vacances	commerce,restauration,beaute	Arrêté du 21 juillet 2026 (calendrier scolaire 2027-2028)	Horaires élargis, activités enfants.
+E	2027-10-31	2027-10-31	Halloween et passage à l'heure d'hiver	fete	commerce,restauration,beaute,tous	Usage (31 octobre) ; directive 2000/84/CE (dernier dimanche d'octobre)	Vitrine à thème, rappel du changement d'heure.
+E	2027-11-01	2027-11-01	Toussaint (jour férié)	ferie	tous	Code du travail, art. L3133-1	Horaires fériés, fleurs, message de respect.
+E	2027-11-01	2027-11-30	Mois sans tabac et Movember	journee	sante,beaute	Santé publique France ; Movember Foundation (novembre)	Accompagnement à l'arrêt, santé masculine.
+E	2027-11-11	2027-11-11	Armistice de 1918 (jour férié) et Singles Day	ferie	tous,commerce	Code du travail, art. L3133-1 ; usage commercial (11.11)	Horaires fériés, devoir de mémoire ; offre e-commerce le cas échéant.
+E	2027-11-13	2027-11-13	Journée mondiale de la gentillesse	journee	tous	World Kindness Movement (13 novembre)	Merci aux clients, geste offert.
+E	2027-11-14	2027-11-14	Journée mondiale du diabète	journee	sante,restauration	ONU / Fédération internationale du diabète (14 novembre)	Dépistage, alimentation adaptée.
+E	2027-11-18	2027-11-18	Beaujolais nouveau	commercial	restauration,commerce	Interprofession du Beaujolais (3e jeudi de novembre)	Soirée dégustation, accords.
+E	2027-11-19	2027-11-19	Journée de l'entrepreneuriat féminin	journee	b2b	Women's Entrepreneurship Day Organization (19 novembre)	Portrait d'une cliente ou partenaire.
+E	2027-11-20	2027-11-20	Journée internationale des droits de l'enfant	journee	commerce,sante	ONU (20 novembre)	Produits enfants, engagement associatif.
+E	2027-11-26	2027-11-26	Black Friday	commercial	commerce,beaute,b2b	Usage commercial (lendemain du 4e jeudi de novembre)	Offre claire et limitée, ou position assumée.
+E	2027-11-29	2027-11-29	Cyber Monday	commercial	commerce	Usage commercial (lundi suivant le Black Friday)	Prolongation en ligne.
+E	2027-11-30	2027-11-30	Giving Tuesday	journee	b2b,commerce	Mouvement Giving Tuesday (mardi suivant le Black Friday)	Don ou mécénat local.
+E	2027-12-01	2027-12-01	Journée mondiale de lutte contre le sida	journee	sante	OMS / ONUSIDA (1er décembre)	Dépistage, prévention.
+E	2027-12-03	2027-12-03	Journée internationale des personnes handicapées	journee	tous	ONU (3 décembre)	Accessibilité de vos locaux et de votre site.
+E	2027-12-05	2027-12-05	Journée internationale des volontaires	journee	b2b	ONU (5 décembre)	Engagement de l'équipe.
+E	2027-12-06	2027-12-06	Saint-Nicolas	fete	commerce,restauration,artisanat	Tradition du Nord et de l'Est de la France, Belgique, Luxembourg (6 décembre)	Brioches, chocolats, défilé local.
+E	2027-12-18	2028-01-03	Vacances de Noël (toutes zones)	vacances	commerce,restauration,beaute	Arrêté du 21 juillet 2026 (calendrier scolaire 2027-2028)	Horaires de fêtes, cartes cadeaux.
+E	2027-12-24	2027-12-25	Réveillon et Noël (25 décembre férié)	ferie	tous	Code du travail, art. L3133-1	Vœux, dernières commandes, fermeture annoncée.
+E	2027-12-31	2027-12-31	Saint-Sylvestre	fete	restauration,commerce,beaute	Usage (31 décembre)	Menu du réveillon, mise en beauté, bilan de l'année.

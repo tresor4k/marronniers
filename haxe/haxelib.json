@@ -1,0 +1,11 @@
+{
+  "name": "marronniers",
+  "url": "https://lescreavores.fr/outils/generateur-calendrier-editorial/",
+  "license": "MIT",
+  "tags": ["calendar", "france", "marketing", "editorial", "holidays"],
+  "description": "French editorial calendar (marronniers) from September 2026 to December 2027: public holidays, celebrations, retail dates, world days, school holidays and sales, with sectors, source and a post idea for each date.",
+  "version": "0.1.0",
+  "releasenote": "First release: 139 dates (2026-09-14 to 2027-12-31), 7 sectors, filters by range, month, sector and type.",
+  "contributors": ["lescreavores"],
+  "classPath": "src"
+}

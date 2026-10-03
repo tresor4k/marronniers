@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.clojars.lescreavores</groupId>
+  <artifactId>marronniers</artifactId>
+  <version>0.1.0</version>
+  <packaging>jar</packaging>
+  <name>marronniers</name>
+  <description>French editorial calendar (marronniers) from September 2026 to December 2027: public holidays, celebrations, retail dates, world days, school holidays and sales, with sectors, source and a post idea for each date.</description>
+  <url>https://lescreavores.fr/outils/generateur-calendrier-editorial/</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Les Créavores</name>
+      <url>https://lescreavores.fr/</url>
+    </developer>
+  </developers>
+  <dependencies>
+    <dependency>
+      <groupId>org.clojure</groupId>
+      <artifactId>clojure</artifactId>
+      <version>1.12.6</version>
+    </dependency>
+  </dependencies>
+</project>
