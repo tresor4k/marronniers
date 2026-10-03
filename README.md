@@ -22,7 +22,7 @@ sector, of a type, the next dates from a given day, and the list of sectors.
 | --- | --- | --- |
 | Haxe | [haxe/](haxe/) | [marronniers on Haxelib](https://lib.haxe.org/p/marronniers/) |
 | Clojure | [clojure/](clojure/) | [net.clojars.lescreavores/marronniers on Clojars](https://clojars.org/net.clojars.lescreavores/marronniers) |
-| Java 11+ | [java/](java/) | `fr.lescreavores:marronniers` on Maven Central |
+| Java 11+ | [java/](java/) | [`fr.lescreavores:marronniers` on Maven Central](https://central.sonatype.com/artifact/fr.lescreavores/marronniers) |
 
 Each folder has its own README with install and usage examples.
 
